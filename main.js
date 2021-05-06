@@ -1,0 +1,1 @@
+console.log(ml5.version);
